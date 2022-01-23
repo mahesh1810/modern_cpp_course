@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/mahesh/mydir/projects/modern_cpp_course/devel -DCMAKE_INSTALL_PREFIX=/home/mahesh/mydir/projects/modern_cpp_course/install -G Unix Makefiles

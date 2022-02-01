@@ -7,7 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/mahesh/mydir/projects/modern_cpp_course/devel:$CMAKE_PREFIX_PATH"
 export PWD='/home/mahesh/mydir/projects/modern_cpp_course/build'
-export ROSLISP_PACKAGE_DIRECTORIES='/home/mahesh/mydir/projects/modern_cpp_course/devel/share/common-lisp'
-export ROS_PACKAGE_PATH="/home/mahesh/mydir/projects/modern_cpp_course/src:$ROS_PACKAGE_PATH"
